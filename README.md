@@ -24,20 +24,23 @@
 * `spam.csv` — вихідний набір даних.
 
 ## 🚀 Як запустити проєкт локально
+
 ### Клонуйте репозиторій:
 
-Bash
-git clone [https://github.com/HolovenkoK/spam-classification-system.git](https://github.com/HolovenkoK/spam-classification-system.git)
+git clone https://github.com/HolovenkoK/spam-classification-system.git
+
+
 ## Перейдіть до папки проєкту:
 
-Bash
 cd spam-classification-system
+
+
 ## Встановіть необхідні бібліотеки:
 
-Bash
 pip install streamlit scikit-learn pandas numpy nltk joblib
+
+
 ## Запустіть вебдодаток:
 
-Bash
 streamlit run app.py
 
