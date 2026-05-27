@@ -29,3 +29,21 @@
 1. Клонуйте репозиторій:
 ```bash
 git clone [https://github.com/HolovenkoK/spam-classification-system.git](https://github.com/HolovenkoK/spam-classification-system.git)
+
+Перейдіть до папки проєкту:
+
+Bash
+cd spam-classification-system
+Встановіть необхідні бібліотеки:
+
+Bash
+pip install -r requirements.txt
+Запустіть вебдодаток:
+
+Bash
+streamlit run app.py
+🎓 Автор
+Головенко Костянтин Анатолійович
+Студент 2 курсу, ФІТ, група 12
+Державний торговельно-економічний університет (ДТЕУ)
+Київ, 2026
