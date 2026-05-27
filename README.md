@@ -20,30 +20,11 @@
 
 ## 📁 Структура репозиторію
 * `app.py` — головний файл вебдодатка Streamlit.
-* `coursework2` — скрипт розвідувального аналізу (EDA), NLP-конвеєра та навчання моделей.
+* `coursework2.ipynb` — скрипт розвідувального аналізу (EDA), NLP-конвеєра та навчання моделей.
 * `spam.csv` — вихідний набір даних.
-* `requirements.txt` — перелік залежностей для запуску проєкту.
 
 ## 🚀 Як запустити проєкт локально
 
 1. Клонуйте репозиторій:
 ```bash
 git clone [https://github.com/HolovenkoK/spam-classification-system.git](https://github.com/HolovenkoK/spam-classification-system.git)
-
-Перейдіть до папки проєкту:
-
-Bash
-cd spam-classification-system
-Встановіть необхідні бібліотеки:
-
-Bash
-pip install -r requirements.txt
-Запустіть вебдодаток:
-
-Bash
-streamlit run app.py
-🎓 Автор
-Головенко Костянтин Анатолійович
-Студент 2 курсу, ФІТ, група 12
-Державний торговельно-економічний університет (ДТЕУ)
-Київ, 2026
